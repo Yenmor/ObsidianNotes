@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "e0737537fd03b257",
+    "type": "split",
+    "children": [
+      {
+        "id": "d85bbdcc12bd3d18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65913336cf4f806e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第一个 Vue2 程序.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一个 Vue2 程序"
+            }
+          },
+          {
+            "id": "ff24f499565b0488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "使用PicGo + 腾讯云COS搭建md图床.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "使用PicGo + 腾讯云COS搭建md图床"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2332d18008d8417f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "32523fdf3666f2d7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "903e53e58e954130",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "dd785fa33edc4ef4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "530bf2430497682f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "f1970cc1df868449",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "34b1a7e18c462733",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d0e9d9a8646afd02",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "面向切面编程.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "9dc63b5f6b109bae",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "面向切面编程.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "0a900835b6c2ddcd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "面向切面编程.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ff24f499565b0488",
+  "lastOpenFiles": [
+    "第一个 Vue2 程序.md",
+    "钓鱼.md",
+    "jiangly.md",
+    "社交工程.md",
+    "TCP三次握手.md",
+    "ARP欺骗.md",
+    "面向切面编程.md",
+    "彩虹表.md",
+    "Welcome.md"
+  ]
+}
