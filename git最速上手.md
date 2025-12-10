@@ -1,11 +1,11 @@
---------
+---
 
 
 - # 配置git身份
 
 ```bash
-git config --globle user.name "用户名"
-git config --globle user.email "邮箱"
+git config --global user.name "用户名"
+git config --global user.email "邮箱"
 ```
 
 - # 初始化本地 Git 仓库
@@ -35,6 +35,11 @@ git remote add origin <远程仓库URL>
 ```
 
 例： `git remote add origin https://github.com/Yenmor/ActionWatcher4j.git`
+- # 修改本地分支命名
+
+```bash
+git branch -M main
+```
 
 - # 推送到远程仓库
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用PicGo + 腾讯云COS搭建md图床.md",
+                "file": "blogs/OCS 网课助手的基本配置及使用.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "使用PicGo + 腾讯云COS搭建md图床"
+              "title": "OCS 网课助手的基本配置及使用"
             }
           }
         ],
@@ -185,8 +185,17 @@
   },
   "active": "ff24f499565b0488",
   "lastOpenFiles": [
-    "第一个 Vue2 程序.md",
     "钓鱼.md",
+    "Fastjson的使用(1).md",
+    "字典攻击.md",
+    "密码猜测.md",
+    "密码嗅探.md",
+    "blogs/使用PicGo + 腾讯云COS搭建md图床.md",
+    "blogs/使用PicGo + 腾讯云COS搭建md图床 发布的版本.md",
+    "git最速上手.md",
+    "blogs/OCS 网课助手的基本配置及使用.md",
+    "Git的使用综合.md",
+    "第一个 Vue2 程序.md",
     "jiangly.md",
     "社交工程.md",
     "TCP三次握手.md",
