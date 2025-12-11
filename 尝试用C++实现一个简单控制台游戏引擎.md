@@ -32,3 +32,22 @@ int main(){
 }
 ```
 
+# 创建可供复用的 Screen 对象
+- Screen 对象应包含以下属性
+	- width 游戏屏幕的宽度
+	- height 游戏屏幕的高度
+	- vector<char> data 屏幕中每个像素的数据
+	-  vector<GameObject*> objs 在屏幕上的游戏物体
+	-  pixel_count 屏幕的像素数量，就是 width*height
+
+<br>
+
+- Screen 对象应包含以下方法
+	- addObj() 向 Screen 对象中添加一个游戏物体
+	- draw() 根据 Screen 中存在的游戏物体在控制台上绘制Screen
+	- update() 更新 Screen 状态和内部游戏物体的状态
+	- writeObj() 在 Screen 上绘制游戏物体的方法，基本属于内部方法
+
+>你或许要问 addObj() 和 writeObj() 的区别
+>addObj()只负责将游戏物体添加到 Screen 内部的游戏物体列表
+>writeObj() 则真正的将游戏物体画到屏幕的像素信息上，大多数时候writeObj() 该被当作内部方法
